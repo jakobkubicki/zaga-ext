@@ -1,19 +1,20 @@
-# 🌿 Skincare Extension
+# 🚀 ZAG AI Ext
 
-Skincare Extension is a Chrome extension that scans a webpage for skincare products, lists the active ingredients, and informs you about any potential side effects. It's a tool for anyone who wants to stay informed about the products they encounter online. 
+ZAG AI Ext is a Chrome extension that enhances the user experience with the ZAG AI website. It provides a seamless way for users to navigate the web and capture website data to enrich their projects. The extracted data can then be used to train their models on the ZAG AI platform. This extension allows the full breadth of the internet to become potential training data, providing unprecedented flexibility and convenience.
 
-Currently, this extension is in the early stages of development. It is being built with TypeScript, ReactJS, and Node Package Manager. 
+The app is built with TypeScript, ReactJS, and Node Package Manager
 
 ## Installation
 
-Use npm to install the necessary packages. 
+Use npm to install the necessary packages.
 
-```
+```bash
 npm install
 ```
 
-Build the application using 
-```
+Then, build the application with
+
+```bash
 npm run build
 ```
 
@@ -24,9 +25,9 @@ After the packages are installed and the application is built, you can run the e
 1. Go to Chrome -> More Tools -> Extensions
 2. Switch on Developer mode
 3. Click on 'Load unpacked'
-4. Select the build folder of the Skincare Extension
+4. Select the build folder of the ZAG AI Ext
 
-You're now all set to start using the Skincare Extension. Simply navigate to a webpage with skincare products and click the extension icon. The extension will scan the page and display a list of the active ingredients and their potential side effects.
+You're now all set to start using ZAG AI Ext. Simply navigate to any webpage and click the extension icon. The extension will save the webpage data to your selected project on ZAG AI.
 
 ## Contributing
 
@@ -34,9 +35,7 @@ This is an open source project. Pull requests are welcome. For major changes, pl
 
 You can reach out to the main contributors via GitHub:
 
-🚀 Jakob Kubicki: [Jakob Kubicki](https://github.com/jakobkubicki)
-
-🌟 Grayson Cooper: [Grayson Cooper](https://github.com/graysonacooper)
+🚀 [Jakob Kubicki](https://github.com/jakobkubicki)
 
 To contribute, follow these steps:
 
@@ -57,5 +56,5 @@ This project is licensed under the terms of the MIT license.
 ---
 
 <p align="center">
-  ❤️ Thank you for your interest in Skincare Extension! Happy coding! 👩‍💻🌟
+  ❤️ Thank you for your interest in ZAG AI Ext! Happy coding! 👩‍💻🌟
 </p>
