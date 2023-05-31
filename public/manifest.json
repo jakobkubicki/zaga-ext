@@ -1,0 +1,24 @@
+{
+  "name": "ZAG AI",
+  "description": "Extension for the ZAG AI website. Allows a user to save a webpage to their projects",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "permissions": ["activeTab", "tabs", "scripting", "storage"],
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Open the popup",
+    "default_icon": {
+      "16": "zag.png",
+      "48": "zag.png",
+      "128": "zag.png"
+    }
+},
+"background": {
+  "service_worker": "background.js"
+},
+"icons": {
+    "16": "zag.png",
+    "48": "zag.png",
+    "128": "zag.png"
+}
+}
