@@ -1,6 +1,6 @@
 # 🚀 ZAG AI Ext
 
-ZAG AI Ext is a Chrome extension that enhances the user experience with the ZAG AI website. It provides a seamless way for users to navigate the web and capture website data to enrich their projects. The extracted data can then be used to train their models on the ZAG AI platform. This extension allows the full breadth of the internet to become potential training data, providing unprecedented flexibility and convenience.
+ZAG AI Ext is a Chrome extension that enhances the user experience with the ZAG AI website. It provides a seamless way for users to navigate the web and capture website data to enrich their projects. The extracted data can then be used to train their models on the ZAG AI platform.
 
 The app is built with TypeScript, ReactJS, and Node Package Manager
 
