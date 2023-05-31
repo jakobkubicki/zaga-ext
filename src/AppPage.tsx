@@ -145,7 +145,6 @@ const AppPage: React.FC = () => {
     }
     return undefined
   }
-
   const db = getDatabaseSafe(app)
 
   useEffect(() => {
